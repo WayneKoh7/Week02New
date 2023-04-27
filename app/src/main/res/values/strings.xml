@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Week02New</string>
+<string name ="app_name">Week02New</string>
+    <string name ="message">Have fun with Android!</string>
+    <color name ="pink">#e91e63</color>
+    <string name ="welcome">Welcome to Android!</string>
+    <string name ="button1">Button 1</string>
+    <string name ="button2">Button 2</string>
 </resources>
